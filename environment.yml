@@ -9,3 +9,5 @@ dependencies:
   - distributed
   - jupyterlab-myst
   - notebook
+  - distributed
+  - bokeh
