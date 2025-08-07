@@ -1,0 +1,1 @@
+python -c "from dkist.data.sample import download_all_sample_data; download_all_sample_data()"
